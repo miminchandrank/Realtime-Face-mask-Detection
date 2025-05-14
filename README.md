@@ -49,4 +49,4 @@ The model follows a simple yet effective CNN structure:
 - Flatten + Dense layers
 - Final layer with **sigmoid** or **softmax** activation (depending on binary/multiclass setup)
 
-> 🎯 **Accuracy**: Achieved ~95% validation accuracy on custom mask detection dataset
+> 🎯 **Accuracy**: Achieved ~98% validation accuracy on custom mask detection dataset
