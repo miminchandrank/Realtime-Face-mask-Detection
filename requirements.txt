@@ -1,0 +1,6 @@
+tensorflow>=2.10.0
+numpy>=1.19.5
+matplotlib>=3.2.2
+Pillow>=8.0.0
+scikit-learn>=0.24.0
+opencv-python>=4.5.1.48  # Only if using webcam or real-time detection later
