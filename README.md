@@ -2,7 +2,7 @@
 
 An AI-powered real-time face mask detection system built with **Convolutional Neural Networks (CNNs)** and **OpenCV**, designed to enhance **public safety** during respiratory disease outbreaks such as COVID-19.
 
-🔗 **Live Demo Video**: [Watch on LinkedIn](https://www.linkedin.com/posts/miminchandrank_deeplearning-computervision-ai-activity-7319195495975829504-Ut_o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD4aN8BBSizqogKnOr2eBg_WSmXdqUej4w)
+🔗 **Live Demo Video**: [Watch on LinkedIn](https://www.linkedin.com/posts/miminchandrank_ai-computervision-deeplearning-activity-7326070874233622529-Nq3R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD4aN8BBSizqogKnOr2eBg_WSmXdqUej4w)
 
 ---
 
